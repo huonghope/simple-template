@@ -1,0 +1,85 @@
+HEADER 
+    Logo
+    Home
+    About Application
+    Support
+    Blog
+    Get started 
+    Buy Now
+BRANDS
+    WP+iOS+Android
+        Based on ReactJS and ReactNative,<br>
+        HsBlog not only is a WP theme, but also<br>
+        let you to build your is iOS + Android App<br>
+        Native App
+    Sing page application
+        SPA improves you Customer<br>
+        Experience. When navigating from a<br>
+        page to another page. HsBlog WILL NOT<br>
+        REFRESH Browser like another themes.
+    Drap & Drop Page Builder
+        We have created our own Page Builder<br>
+        for HsBlog. It allows you to build either<br> 
+        Web Page or App Home page
+    Elite Support
+        help.highspeedblog.com is our Help<br>
+        Center where you can find useful<br>
+        information on Documentation page<br>
+        and You can ask for us anything there.<br>
+
+PRESENTATION
+    About
+        Trusted by over 1000 users
+        There are many thing that are important to catelong design. Your images<br>
+        must be sharp and appealing
+    Slides
+        Only five start! and this despite the fact that the topic is still under<br>
+        improvement. I hope feture updates will help her become oven better. A<br>
+        greate team a great idea of the catalog.
+
+        Dustin Barnes
+
+FETURES
+    About
+        Essemtial features for you  
+        There are many things that are important to catolog design. You images<br>
+        must be sharp and appealing.
+    Feture
+        1.Favorie post
+        It's a useful feature for your customers: They can
+        SAVE an useful article and easily reach it in future under Favorite Store.   
+        2. Recently Viewed
+        Every time visits an article, HSBlog will remember it. 
+        Customers can easily reach it next time under Recently Reviewed area.
+        3. Awesome Mega Menu
+        A useful feature helps you can add more information
+        to your menu but still keep it simple and clean
+        4. Theme  Options
+        Here you can customize Header Style, Footer Style, 
+        Heading Tags's Font, Social Networks, MailChimp, Youtube and much more ....
+        5. Social Login
+        In addition Default WordPress Login, 
+        Customer can easily signin / signup to your site with their Facebook and Apple.
+        6. google reCaptcha v3
+        Protects your site website forms from spam 
+        entries while letting real people pass through with ease
+    
+POSTS
+    About 
+        Popular posts
+        There are many things that are important to catalog design. Your images must be sharp <br>
+        and appealing.
+    Post
+        1. Alii autem quibus ego assentior
+        2. Sunt autem nusquam hoc epicurus in...
+        3. How To Write Better Advertising Copy
+        4. Omme animal simul atque in
+        5. Torquatos nostros quas tu team
+        6. Promote With Postcards
+        7. Probabo, inquit, sic agum, ut ita ruant
+        8. Epicurus in armatum hostem impetum
+        9. Low Cost Advertising
+
+
+
+========================= END =========================
